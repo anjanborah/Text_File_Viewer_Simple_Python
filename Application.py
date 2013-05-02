@@ -1,5 +1,5 @@
 """
-A simple programme for displaying text files
+A simple programme for displaying text files ( Tkinter is not ugly )
 GitHub - https://github.com/anjanborah/Text_File_Viewer_Simple_Python
 Author - Anjan Borah
 Copyright ( c ) 2013 Anjan Borah
