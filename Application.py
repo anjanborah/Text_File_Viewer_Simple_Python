@@ -1,7 +1,7 @@
 """
 A simple programme for displaying text files ( Tkinter is not ugly )
 GitHub - https://github.com/anjanborah/Text_File_Viewer_Simple_Python
-Author - Anjan Borah
+Author - Anjan Borah < anjanborah@aol.com >
 Copyright ( c ) 2013 Anjan Borah
 """
 try:
